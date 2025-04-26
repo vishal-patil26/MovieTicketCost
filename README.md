@@ -22,4 +22,4 @@ This is a simple C-based console application that calculates the ticket cost for
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/MovieTicketCost.git
+   git clone https://github.com/vishal-patil26/MovieTicketCost.git
